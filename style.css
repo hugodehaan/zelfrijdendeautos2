@@ -30,19 +30,23 @@ h2,h3{
 }
 
 #nav{
-  width:180px;
+  width:100px;
   float: left;
 }
+
+
 #nav ul{
+  display: inline;
   list-style-type: none;
 }
 
 #main{
-  width: 550px;
+  width: 600px;
   float: right;
 }
 #filmpje{
   float: right;
+  width: 600px
 }
 #footer{
   clear: both;
