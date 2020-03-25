@@ -1,7 +1,16 @@
 body{
-  background-color:#eee
+  background-color:#eee;
+  font-family: helvetica, Arial, Sans-serif;
 }
 
+a{
+  text-decoration: none;
+}
+
+
+h2,h3{
+  margin: 0;
+}
 #container{
   background-color: white;
   width: 800px;
@@ -23,9 +32,19 @@ body{
 #nav{
   width:180px;
   float: left;
-  text-decoration: none;
 }
+#nav ul{
+  list-style-type: none;
+}
+
 #main{
-  width: 600px;
+  width: 550px;
+  float: right;
+}
+#filmpje{
+  float: right;
+}
+#footer{
+  clear: both;
   
 }
