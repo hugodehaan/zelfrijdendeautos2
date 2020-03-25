@@ -1,5 +1,5 @@
 body{
-  background-color:#eee;
+ background-color: lightgrey;
   font-family: helvetica, Arial, Sans-serif;
 }
 
@@ -13,7 +13,7 @@ h2,h3{
 }
 #container{
   background-color: white;
-  width: 800px;
+  width: 850px;
   margin-left: auto;
   margin-right: auto;
 
@@ -23,15 +23,18 @@ h2,h3{
   background-color:#66ccff ;
   color: white;
   text-align: center;
+  padding:0.5px;
 }
 
 #content {
-  padding:20px;
+background-color: white;
+margin-right:20px;
 }
 
 #nav{
-  width:100px;
+  width:180px;
   float: left;
+  margin-left:20px;
 }
 
 
@@ -44,6 +47,11 @@ h2,h3{
   width: 600px;
   float: right;
 }
+
+#tabel{
+  float:right;
+  width:600px
+}
 #filmpje{
   float: right;
   width: 600px
@@ -54,4 +62,8 @@ h2,h3{
   Background-color:#999999;
   color:black;
   text-align: right;
+}
+#contactformulier{
+  float: right;
+  width: 550px
 }
