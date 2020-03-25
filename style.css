@@ -46,5 +46,8 @@ h2,h3{
 }
 #footer{
   clear: both;
-  
+  padding: 10px;
+  Background-color:#999999;
+  color:black;
+  text-align: right;
 }
