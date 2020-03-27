@@ -61,6 +61,10 @@ td, th{
 tr:nth-child(even){
   background-color: #dddddd;
 }
+img{
+  width: 300px;
+  margin: 15px
+}
 
 #filmpje{
   float: right;
