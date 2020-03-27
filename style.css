@@ -72,6 +72,7 @@ tr:nth-child(even){
   Background-color:#999999;
   color:black;
   text-align: right;
+  width:100%;
 }
 #contactformulier{
   float: right;
