@@ -45,7 +45,7 @@ margin-right:20px;
 
 #main{
   width: 600px;
-  float: right;
+  float:right;
 }
 
 #tabel{
@@ -53,7 +53,14 @@ margin-right:20px;
   border-collapse: collapse;
   width: 600px;
 }
-
+td, th{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 6px;
+}
+tr:nth-child(even){
+  background-color: #dddddd;
+}
 
 #filmpje{
   float: right;
