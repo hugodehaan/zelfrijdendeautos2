@@ -49,12 +49,15 @@ margin-right:20px;
 }
 
 #tabel{
-  float:right;
-  width:600px
+  float: right;
+  border-collapse: collapse;
+  width: 600px;
 }
+
+
 #filmpje{
   float: right;
-  width: 600px
+  width: 600px;
 }
 #footer{
   clear: both;
